@@ -1,0 +1,8 @@
+c:\users\hp\documents\visual studio 2012\Projects\Mili-Kilometres\Mili-Kilometres\bin\Debug\Mili-Kilometres.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\Mili-Kilometres\Mili-Kilometres\bin\Debug\Mili-Kilometres.exe
+c:\users\hp\documents\visual studio 2012\Projects\Mili-Kilometres\Mili-Kilometres\bin\Debug\Mili-Kilometres.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Mili-Kilometres\Mili-Kilometres\obj\Debug\Mili_Kilometres.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\Mili-Kilometres\Mili-Kilometres\obj\Debug\Mili_Kilometres.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\Mili-Kilometres\Mili-Kilometres\obj\Debug\Mili-Kilometres.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\Mili-Kilometres\Mili-Kilometres\obj\Debug\Mili-Kilometres.exe
+c:\users\hp\documents\visual studio 2012\Projects\Mili-Kilometres\Mili-Kilometres\obj\Debug\Mili-Kilometres.pdb
